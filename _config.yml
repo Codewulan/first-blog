@@ -2,9 +2,9 @@
 baseurl: "/first-blog"
 
 # 网站的主标题
-title: "Girls Coding Day"
+title: "路遇美食-敦煌夜市"
 # 网站副标题
-subTitle: "架起女性与编程的桥梁"
+subTitle: "烟火气"
 
 # 其它配置, 可忽略, 无需修改
 permalink: /:title/
